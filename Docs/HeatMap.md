@@ -57,11 +57,11 @@ HeatMap Method: save {#HeatMap:save}
 
 ### Syntax:
 
-	progressbar.save()
+	myHeatMap.save()
 
 ### Description:
 	
-	Saves all new spots.
+	Saves all new spots via Request.JSON.
 
 
 HeatMap Method: load {#HeatMap:load}
@@ -69,8 +69,8 @@ HeatMap Method: load {#HeatMap:load}
 
 ### Syntax:
 
-	progressbar.load()
+	myHeatMap.load()
 
 ### Description:
 
-	Loads all old spots.
+	Loads all old spots via Request.JSON.
