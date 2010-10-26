@@ -21,14 +21,6 @@ HeatMap Method: constructor {#HeatMap:constructor}
 2. options - (*object*)  An object containing the HeatMap instance's options.
 
 ### Options:
-
-* range - (*integer*, defaults to 200)  The offset of the container scroll position to the image before the image should load.
-* image - (*string*, defaults to 'blank.gif')  The image to replace to the original image.
-* resetDimensions - (*boolean*, defaults to true)  Should the HeatMap instance remove the image's "width" and "height" attributes?
-* elements - (*string*, defaults to 'img')  The elements to apply HeatMap to.
-* container - (*element*, defaults to window)  The container of any images for HeatMap to be applied to.
-* mode - (*string*, defaults to 'vertical')  The scroll mode ('vertical' or 'horizontal').
-
 * event - (*string*, defaults to 'event') </em> the event to listen for -- defaults to click.
 * load - (*object*, defaults to {})</em> the Request.JSON options object for loading spots.
 * method - (*string*, defaults to "get")</em> the Request.JSON request type.
