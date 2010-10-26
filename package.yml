@@ -1,7 +1,7 @@
 name:  HeatMap
 author:  davidwalsh
-current:  
-category:  
-tags:  []
-docs:  
-demo:  
+current:  0.1
+category:  Interface
+tags:  [heatmap,events,click,ajax]
+docs:  http://davidwalsh.name/js/heatmap
+demo:  http://davidwalsh.name/dw-content/heat-map.php
